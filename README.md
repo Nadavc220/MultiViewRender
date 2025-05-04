@@ -1,3 +1,3 @@
 # MultiViewRender
 
-![teaser](assets/teaser.png)
+![teaser](teaser.png)
